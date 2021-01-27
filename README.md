@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Netflix Clone
 
 Voce pode conferir o resultado final [aqui](https://netflix-clone-alan.web.app/)
